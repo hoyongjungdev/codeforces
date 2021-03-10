@@ -1,4 +1,4 @@
-package c1475.E;
+package contest697div3.E;
 
 import org.junit.jupiter.api.Test;
 
